@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Ruby Jewelry
+subtitle: And Other Shiny Programming Things
+author: Leigh Scherrer Nakhimovich
 simple_search: https://www.google.com/search
-description:
+description: A tech blog for newbie programmers
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
