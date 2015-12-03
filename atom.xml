@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Ruby Jewelry]]></title>
+  <link href="http://leighsn.github.io/atom.xml" rel="self"/>
+  <link href="http://leighsn.github.io/"/>
+  <updated>2015-12-03T13:48:10-05:00</updated>
+  <id>http://leighsn.github.io/</id>
+  <author>
+    <name><![CDATA[Leigh Scherrer Nakhimovich]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[My First Post]]></title>
+    <link href="http://leighsn.github.io/blog/2015/12/03/my-first-post/"/>
+    <updated>2015-12-03T13:46:04-05:00</updated>
+    <id>http://leighsn.github.io/blog/2015/12/03/my-first-post</id>
+    <content type="html"><![CDATA[<p>&ldquo;Hello World!&rdquo;</p>
+]]></content>
+  </entry>
+  
+</feed>
